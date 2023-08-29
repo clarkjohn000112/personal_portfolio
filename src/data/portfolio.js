@@ -1,20 +1,20 @@
 export default [
    {
-      title: 'Terminal Website',
-      imgUrl: '/assets/terminal-website.jpg',
+      title: 'Lorem ipsum',
+      imgUrl: '/assets/pf.webp',
       stack: ['HTML', 'CSS', 'JavaScript'],
-      link: 'https://fkcodes.com',
+      link: 'https://www.linkedin.com/in/clark-john-casin/',
    },
    {
-      title: 'Developer Portfolio',
-      imgUrl: '/assets/dev-portfolio.jpg',
+      title: 'Lorem ipsum',
+      imgUrl: '/assets/pf1.jpg',
       stack: ['React', 'Tailwind', 'Vite'],
-      link: 'https://thehackershideout.com',
+      link: 'https://www.linkedin.com/in/clark-john-casin/',
    },
    {
-      title: 'AI Nerf Gun',
-      imgUrl: '/assets/ai-nerf-gun.jpg',
-      stack: ['Python', 'C++', 'Robotics'],
-      link: 'https://youtu.be/A8eegxL82PI',
+      title: 'Lorem ipsum',
+      imgUrl: '/assets/pf2.webp',
+      stack: ['Python', 'C++', 'C#'],
+      link: 'https://www.linkedin.com/in/clark-john-casin/',
    },
 ]
